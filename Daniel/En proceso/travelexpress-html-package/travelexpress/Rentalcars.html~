@@ -1,0 +1,619 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Viva Las Vegas Tour and Travel</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="manifest" href="site.webmanifest">
+		<link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
+        <!-- Place favicon.ico in the root directory -->
+		<!-- CSS here -->
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+		<link rel="stylesheet" href="css/nice-select.css">
+        <link rel="stylesheet" href="css/animate.css">
+        <link rel="stylesheet" href="css/owl.carousel.min.css">
+        <link rel="stylesheet" href="css/magnific-popup.css">
+        <link rel="stylesheet" href="css/fontawesome-all.min.css">
+        <link rel="stylesheet" href="css/icofont.css">
+        <link rel="stylesheet" href="css/meanmenu.css">
+        <link rel="stylesheet" href="css/jquery-ui.css">
+        <link rel="stylesheet" href="css/default.css">
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/responsive.css">
+    </head>
+    <body>
+        <!--[if lte IE 9]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+        <![endif]-->
+        <!-- Start Header Area -->
+        <header class="header-area">
+            <div class="container">
+                <div class="header-top separator d-none d-md-block">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-8">
+                            <div class="call-to-action">
+                                <span>Contact us :</span>
+                                <i class="fas fa-phone"></i>
+                                +1 702 460-7120 (Sunday - Friday : 9:00am - 5:00pm)
+                            </div>
+                        </div>
+                        <div class="col-lg-5 col-md-2">
+                            <div class="header-social-icon f-right">
+                                <ul>
+                                    <li>
+                                        <a href="#">
+                                            <i class="fab fa-facebook-f"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <i class="fab fa-twitter"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <i class="fab fa-google-plus-g"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <i class="fab fa-pinterest-p"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-1 col-md-2">
+                            <div class="user-account text-right">
+                                <a href="#">ACCOUNT</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="main-menu">
+                    <div class="row">
+                        <div class="col-lg-3 d-flex align-items-center">
+                            <div class="logo">
+                                <a href="index.html">
+                                    <img src="img/logo/logo.png" alt="logo">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-lg-9">
+                            <div class="basic-menu f-right">
+                                <nav id="mobile-menu">
+                                    <ul>
+                                        <li>
+                                            <a href="index.html">HOME
+                                                <i class="icofont icofont-rounded-down"></i>
+                                            </a>
+                                            <ul>
+                                                <li>
+                                                    <a href="index.html">Home Style 1</a>
+                                                </li>
+                                                <li>
+                                                    <a href="index-2.html">Home Style 2</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="package-grid.html">TOURS</a>
+                                        </li>
+                                        <li>
+                                            <a href="package-list.html">HOTELS
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="package-3-col.html">PACKAGE
+                                                <i class="icofont icofont-rounded-down"></i>
+                                            </a>
+                                            <ul>
+                                                <li>
+                                                    <a href="package-3-col.html"> Package 3 Column</a>
+                                                </li>
+                                                <li>
+                                                    <a href="package-grid.html">Package Grid</a>
+                                                </li>
+                                                <li>
+                                                    <a href="package-list.html"> Package List</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="#">PAGES
+                                                <i class="icofont icofont-rounded-down"></i>
+                                            </a>
+                                            <ul>
+                                                <li>
+                                                    <a href="about.html">About</a>
+                                                </li>
+                                                <li>
+                                                    <a href="contact.html">contact</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="blog.html">BLOG
+                                                <i class="icofont icofont-rounded-down"></i>
+                                            </a>
+                                            <ul>
+                                                <li>
+                                                    <a href="blog.html">Blog Masonry </a>
+                                                </li>
+                                                <li>
+                                                    <a href="blog-sidebar.html">Blog sidebar </a>
+                                                </li>
+                                                <li>
+                                                    <a href="blog-details.html">Blog details </a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="contact.html">CONTACT</a>
+                                        </li>
+                                    </ul>
+                                </nav>
+                            </div>
+                            <div class="mobile-menu"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- End Header Area -->
+
+        <!-- Start Banner Area -->
+        <section class="breadcrumb-area about-page" data-overlay="5" style="background-image: url(img/bg/about-breadcrumb.jpg);">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="breadcrumb-wrapper text-center">
+                            <h3>Restaurants</h3>
+                            <h4>Label!!!!!</h4>
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End Banner Area -->
+         <!--Quito el pinche mapa <div id="contact-map"></div>-->
+        <!-- Start Contact area -->
+       <div class="contact-area mt-100 mb-100">
+            <div class="container">
+                <div class="contact-info">
+                
+                
+                 <!--modifico el texto -->
+                 
+                 
+                     	<!--OPCION IMAGEN CUADRO -->
+                     	
+                     	
+                     	
+                     	
+                     	
+                     	
+                     	<!-- Nove Italiano Area -->
+                     <section class="service-home pt-115 pb-120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="service-home-img">
+                            <img src="img/service/service.png" alt="service-image">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 d-flex align-items-center">
+                        <div class="service-home-content">
+                            <h2>Nove Italiano</h2>
+                           
+                            
+                            
+                            <p>This expensive sister to N9ne sits atop the Palms' super-luxury Fantasy Tower and boasts one of the best views in town, along with beautiful modern decor. The steaks are mediocre and the service is steeped with attitude. But for all that, the only complaint you'll hear about the Nove spaghetti, prepared with lobster, shrimp, crab, scallop, calamari and basil, will relate to its $43 price tag.
+                           </p>
+                           
+                           <h6>Open: 5:30- 11:00PM <br><br>Close Sunday and Monday </h6>
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> <!-- End Nove Italiano Area -->
+        
+                     
+                     
+                       <!-- ========= Start Joe's Seafood Prime Steak and Stone Crab========= -->
+        <section class="destination-area pt-115 pb-120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 d-flex align-items-center">
+                        <div class="destination-content">
+                            <h2>Joe's Seafood Prime Steak and Stone Crab</h2>
+                         
+                          
+                            <p>
+                            Fans of this Miami-spawned "favorite" inside the Forum Shops at Caesars claim it's "better than the original" thanks to an "extensive, diverse" menu packed with "incredibly fresh" seafood (including "amazing" stone crabs), "perfectly cooked" steaks and "to-die-for" desserts; with a "professional yet amiable" staff providing "five-star" service in a "traditional" room that recalls "old Vegas", it's a "special treat" that's "well worth" the "expensive" cost.                            
+
+										</p>
+                          
+                          <h6>Open: 11:30AM – 10:30PM</h6>
+                          
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="destination-img">
+                            <img src="img/service/destination.png" alt="destination-image">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> <!-- End Joe's Seafood Prime Steak and Stone Crab -->
+                     
+                     
+                     
+     	
+                     	<!-- STK Las Vegas Area -->
+                     <section class="service-home pt-115 pb-120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="service-home-img">
+                            <img src="img/service/service.png" alt="service-image">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 d-flex align-items-center">
+                        <div class="service-home-content">
+                            <h2>STK Las Vegas</h2>
+                         
+                            
+                            
+                            <p>There's "never a dull moment" at this direct-from-NYC steakhouse in the Cosmopolitan, where the "delish" (though "premium-priced") eats go toe-to-toe with the "hip", "sexy" nightclub vibe; solid service is another plus, but "forget about any dinner conversation" – "loud music" is part of the experience.
+                            <br><br>
+                                                   
+                            
+										</p>
+                           
+                           <h6>Open 6:00 – 12:00PM</h6>
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> <!-- STK Las Vegas Area -->                     
+                     
+                     
+                          <!-- ========= MASTRO`S OCEAN CLUB, Area========= -->
+        <section class="destination-area pt-115 pb-120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 d-flex align-items-center">
+                        <div class="destination-content">
+                            <h2>MASTRO`S OCEAN CLUB,</h2>
+                           
+                            <p>Delicious seafood", "awesome steaks" and "innovative cocktails" draw diners to the "spectacular" "tree-house" setting of this "upscale" chain outpost perched in an "overhanging cage" at Crystals at CityCenter; an "extremely attentive", "professional" staff ensures the service is as "top-shelf" as the food, no wonder fans agree the "wonderful dining experience" warrants the "breathtakingly expensive" prices.
+									<br><br>	Located in: The Shops at Crystals								
+									<br><br>Address: The Shops at Crystals, 3720 S Las Vegas Blvd, Las Vegas, NV 89109
+									<br><br>Menu: urbanspoon.com
+									</p>
+                          <h6><br>Reservations: opentable <br><br> Hours: Open today · 5–11PM</h6>
+                          
+                            <div class="des-feature">
+                                
+                               
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="destination-img">
+                            <img src="img/service/destination.png" alt="destination-image">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> <!-- End MASTRO`S OCEAN CLUB, -->
+                     
+                     
+                     
+                     <!-- Morton's Steakhouse Area -->
+                     <section class="service-home pt-115 pb-120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="service-home-img">
+                            <img src="img/service/service.png" alt="service-image">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 d-flex align-items-center">
+                        <div class="service-home-content">
+                            <h2>Morton's Steakhouse</h2>
+                           
+                            
+                            
+                            <p>Less than a mile away from the Las Vegas Strip surrounded by the glitz and glamour of top casinos and entertainment venues, Morton's Steakhouse is located at the corner of Paradise and Flamingo Roads. Private boardrooms are available for breakfast, lunch and dinner.
+									</p>
+                           
+                            <h6><br>Monday – Thursday 5pm – 11pm <br><br>Friday – Saturday 4pm – 11pm Sunday 5pm – 10pm</h6>
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> <!-- End "Morton's Steakhouse Area -->      
+                     
+                     
+                          <!-- ========= Maggianos Little Italy Area========= -->
+        <section class="destination-area pt-115 pb-120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 d-flex align-items-center">
+                        <div class="destination-content">
+                            <h2>Maggianos Little Italy</h2>
+                          
+                           
+                            <p>Our goal at Maggiano's Little Italy® is to bring the inviting feeling of the old neighborhood a little closer to your neighborhood. To be more than just a place to eat, but rather, be a gathering place where you and your friends and family can slow down, enjoy a great meal and reconnect. Located on the second level of the Fashion Show Mall on Las Vegas Boulevard across from Wynn Las Vegas.
+
+									</p>
+
+								<h6><br>Open daily from 11:00 a.m. to 11:00 p.m.</h6>
+
+                          
+                          
+                            <div class="des-feature">
+                                
+                               
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="destination-img">
+                            <img src="img/service/destination.png" alt="destination-image">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> <!-- End Maggianos Little Italy -->
+                     
+                     
+                       <!-- "KOI Las Vegas" Area -->
+                     <section class="service-home pt-115 pb-120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="service-home-img">
+                            <img src="img/service/service.png" alt="service-image">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 d-flex align-items-center">
+                        <div class="service-home-content">
+                            <h2>TKOI Las Vegas</h2>
+                           
+                            
+                            
+                            <p>Koi Las Vegas, one of the hottest spots on the LA and New York dining scenes, has arrived at the Planet Hollywood Resort & Casino. A celebrity favorite, Koi has received praise for its Japanese-inspired cuisine with California accents. Koi's menu features a variety of savory cooked dishes, traditional sushi and sashimi, as well as creative rolls. The restaurant is wrapped in a seductive harmony of Asian design elements, combining an exotic Eastern aura with a genuine sense of Hollywood energy and style. 
+									</p>
+                           
+                           <h6><br>Sunday – Thursday 6:00 p.m. – 10:30 p.m <br><br> Friday and Saturday 6:00 p.m. – 11:30 p.m.</h6>
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> <!-- End "KOI Las Vegas" Service Area -->    
+
+
+<!-- ========= Rio Carnival World Buffet========= -->
+        <section class="destination-area pt-115 pb-120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 d-flex align-items-center">
+                        <div class="destination-content">
+                            <h2>Rio Carnival World Buffet</h2>
+                            
+                            
+                            <p>Recognized as the best buffet in Vegas year after year by guests and critics alike, the Carnival World Buffet has raised the bar in buffet dining once again, offering more variety in food choices (more than 300 dishes prepared fresh daily) and a new contemporary design that make the best buffet in Vegas even better.
+
+
+</p>
+                          <h6><br>Breakfast $14.99 plus tax, 7am-11am Mon-Fri, 7:30am – 10:30am Sat-Sun <br><br> Lunch $16.99 plus tax, 11am-3:30pm Mon-Fri<br><br>Dinner $23.99 plus tax, 3:30pm-10pm Nightly<br><br>Saturday & Sunday Champagne Brunch $23.99 plus tax, 9:00am-3:30pm</h6>
+                          
+                            <div class="des-feature">
+                                
+                               
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="destination-img">
+                            <img src="img/service/destination.png" alt="destination-image">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> <!-- End Rio Carnival World Buffet -->
+                     
+                 
+                     
+                 
+                     
+                     
+    							<!--FIN OPCION IMAGEN CUADRO-->                     
+                     
+                     
+                <!--modifico el texto -->
+                 
+    
+
+
+
+
+
+
+
+
+
+
+
+
+				<!--modifico el texto -->                    
+                 
+                 
+                   
+                <div class="contact-field">
+                    <form id="ajax-contact" action="mail.php" method="post">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6">
+                                <div class="single-contact-field">
+                                    <input type="text"  name="name" class="text-field" id="name" placeholder="First Name" required>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6">
+                                <div class="single-contact-field">
+                                    <input type="text"  name="last_name" class="text-field" id="l-name" placeholder="Last Name" required>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6">
+                                <div class="single-contact-field">
+                                    <input type="email"  name="email" class="text-field" id="email" placeholder="Your Email" required>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6">
+                                <div class="single-contact-field">
+                                    <input type="text"  name="phone" class="text-field" id="phone" placeholder="Phone Number" required>
+                                </div>
+                            </div>
+                            <div class="col-lg-12 col-md-12">
+                                <div class="single-contact-field">
+                                    <input type="text"  name="subject" class="text-field" id="subject" placeholder="Subject" required>
+                                </div>
+                            </div>
+                            <div class="col-lg-12 col-md-12">
+                                <div class="single-contact-field">
+                                    <textarea name="message" id="msg" placeholder="Your Message"></textarea>
+                                </div>
+                            </div>
+                            <div class="col-lg-12 col-md-12 text-center">
+                                <button type="submit" class="submit-btn">SEND NOW</button>
+                            </div>
+                        </div>
+                        <div id="form-messages"></div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <!-- End Contact area -->
+        <!-- footer start -->
+        <footer class="footer-area">
+            <div class="footer-top-area pt-110 pb-50">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-3 col-md-5 ">
+                            <div class="footer-widget mb-30">
+                                <h4 class="white">CONTACT US</h4>
+                                <p class="white">If you are going to use a passage of Lorem Ipsum, you need to be sure</p>
+                                <ul class="footer-social-icon">
+                                    <li>
+                                        <a href="#">
+                                            <i class="fab fa-facebook-f"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <i class="fab fa-twitter"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <i class="fab fa-google-plus-g"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <i class="fab fa-pinterest-p"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-2">
+                            <div class="footer-widget mb-30">
+                                <h4 class="white">NEWS</h4>
+                                <ul class="footer-link">
+                                    <li>
+                                        <a href="#">Subsciption</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">New Apps</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Download now</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-2">
+                            <div class="footer-widget mb-30">
+                                <h4 class="white">COMPANY</h4>
+                                <ul class="footer-link">
+                                    <li>
+                                        <a href="#">Screenshot</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Fetures</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Price</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-3">
+                            <div class="footer-widget mb-30">
+                                <h4 class="white">RESOURCES</h4>
+                                <ul class="footer-link">
+                                    <li>
+                                        <a href="#">Support</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Contact</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Privacy & term</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="copyright-area pb-50">
+                <div class="container">
+                    <p class="copyright text-center">Viva Las Vegas Tour And Travel</p>
+                </div>
+            </div>
+        </footer>
+        <!-- footer end -->
+
+		<!-- JS here -->
+        <script src="js/vendor/modernizr-3.5.0.min.js"></script>
+        <script src="js/vendor/jquery-1.12.4.min.js"></script>
+        <script src="js/popper.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/owl.carousel.min.js"></script>
+        <script src="js/isotope.pkgd.min.js"></script>
+        <script src="js/jquery.nice-select.min.js"></script>
+        <script src="js/ajax-form.js"></script>
+        <script src="js/jquery-ui.js"></script>
+        <script src="js/jquery.meanmenu.min.js"></script>
+        <script src="js/waypoint.js"></script>
+        <script src="js/slick.min.js"></script>
+        <script src="js/jquery.counterup.min.js"></script>
+        <script src="js/imagesloaded.pkgd.min.js"></script>
+        <script src="js/jquery.magnific-popup.min.js"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDC3Ip9iVC0nIxC6V14CKLQ1HZNF_65qEQ "></script>
+        <script src="js/plugins.js"></script>
+        <script src="js/main.js"></script>
+    </body>
+</html>

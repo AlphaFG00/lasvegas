@@ -1,0 +1,1 @@
+define("odsp-next/controls/componentCarousel/ComponentCarousel.resx",["require","exports"],function(e,r){r.strings={NextAria:"Haz clic para ver el siguiente conjunto de tarjetas",PrevAria:"Haz clic para ver el anterior conjunto de tarjetas"}});

@@ -1,0 +1,625 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Viva Las Vegas Tour and Travel</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="manifest" href="site.webmanifest">
+		<link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
+        <!-- Place favicon.ico in the root directory -->
+		<!-- CSS here -->
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+		<link rel="stylesheet" href="css/nice-select.css">
+        <link rel="stylesheet" href="css/animate.css">
+        <link rel="stylesheet" href="css/owl.carousel.min.css">
+        <link rel="stylesheet" href="css/magnific-popup.css">
+        <link rel="stylesheet" href="css/fontawesome-all.min.css">
+        <link rel="stylesheet" href="css/icofont.css">
+        <link rel="stylesheet" href="css/meanmenu.css">
+        <link rel="stylesheet" href="css/jquery-ui.css">
+        <link rel="stylesheet" href="css/default.css">
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/responsive.css">
+    </head>
+    <body>
+        <!--[if lte IE 9]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+        <![endif]-->
+        <!-- Start Header Area -->
+        <header class="header-area">
+            <div class="container">
+                <div class="header-top separator d-none d-md-block">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-8">
+                            <div class="call-to-action">
+                                <span>Contact us :</span>
+                                <i class="fas fa-phone"></i>
+                                +1 702 460-7120 (Sunday - Friday : 9:00am - 5:00pm)
+                            </div>
+                        </div>
+                        <div class="col-lg-5 col-md-2">
+                            <div class="header-social-icon f-right">
+                                <ul>
+                                    <li>
+                                        <a href="#">
+                                            <i class="fab fa-facebook-f"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <i class="fab fa-twitter"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <i class="fab fa-google-plus-g"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <i class="fab fa-pinterest-p"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-1 col-md-2">
+                            <div class="user-account text-right">
+                                <a href="#">ACCOUNT</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="main-menu">
+                    <div class="row">
+                        <div class="col-lg-3 d-flex align-items-center">
+                            <div class="logo">
+                                <a href="index.html">
+                                    <img src="img/logo/logo.png" alt="logo">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-lg-9">
+                            <div class="basic-menu f-right">
+                                <nav id="mobile-menu">
+                                    <ul>
+                                        <li>
+                                            <a href="index.html">HOME
+                                                <i class="icofont icofont-rounded-down"></i>
+                                            </a>
+                                            <ul>
+                                                <li>
+                                                    <a href="index.html">Home Style 1</a>
+                                                </li>
+                                                <li>
+                                                    <a href="index-2.html">Home Style 2</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="package-grid.html">TOURS</a>
+                                        </li>
+                                        <li>
+                                            <a href="package-list.html">HOTELS
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="package-3-col.html">PACKAGE
+                                                <i class="icofont icofont-rounded-down"></i>
+                                            </a>
+                                            <ul>
+                                                <li>
+                                                    <a href="package-3-col.html"> Package 3 Column</a>
+                                                </li>
+                                                <li>
+                                                    <a href="package-grid.html">Package Grid</a>
+                                                </li>
+                                                <li>
+                                                    <a href="package-list.html"> Package List</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="#">PAGES
+                                                <i class="icofont icofont-rounded-down"></i>
+                                            </a>
+                                            <ul>
+                                                <li>
+                                                    <a href="about.html">About</a>
+                                                </li>
+                                                <li>
+                                                    <a href="contact.html">contact</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="blog.html">BLOG
+                                                <i class="icofont icofont-rounded-down"></i>
+                                            </a>
+                                            <ul>
+                                                <li>
+                                                    <a href="blog.html">Blog Masonry </a>
+                                                </li>
+                                                <li>
+                                                    <a href="blog-sidebar.html">Blog sidebar </a>
+                                                </li>
+                                                <li>
+                                                    <a href="blog-details.html">Blog details </a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="contact.html">CONTACT</a>
+                                        </li>
+                                    </ul>
+                                </nav>
+                            </div>
+                            <div class="mobile-menu"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- End Header Area -->
+
+        <!-- Start Banner Area -->
+        <section class="breadcrumb-area about-page" data-overlay="5" style="background-image: url(img/bg/about-breadcrumb.jpg);">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="breadcrumb-wrapper text-center">
+                            <h3>Golf</h3>
+                            <h4>Label!!!!!</h4>
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End Banner Area -->
+         <!--Quito el pinche mapa <div id="contact-map"></div>-->
+        <!-- Start Contact area -->
+       <div class="contact-area mt-100 mb-100">
+            <div class="container">
+                <div class="contact-info">
+                
+                
+                 <!--modifico el texto -->
+                 
+                 
+                     	<!--OPCION IMAGEN CUADRO -->
+                     	
+                     	
+                     	
+                     	
+                     	
+                     	
+                     	<!-- TPC Las Vegas Area -->
+                     <section class="service-home pt-115 pb-120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="service-home-img">
+                            <img src="img/service/service.png" alt="service-image">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 d-flex align-items-center">
+                        <div class="service-home-content">
+                            <h2>TPC Las Vegas</h2>
+                           
+                            
+                            
+                            <p>TPC Las Vegas is an outstanding course, beautiful, desert exotic and above all a challenge for any golfer. The course when we played was in superb condition from tee to green. The wind was a test on the day , but it almost made it more fun. The rough was immaculate but extremely tough to dig your way out of (mental note stay out of the rough). The facilities were excellent and the staff friendly and helpful. I would recommend this course to anyone.
+                           </p>
+                           
+                           
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> <!-- End TPC Las Vegas -->
+        
+                     
+                     
+                       <!-- ========= Top Golf Las Vegas========= -->
+        <section class="destination-area pt-115 pb-120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 d-flex align-items-center">
+                        <div class="destination-content">
+                            <h2>Top Golf Las Vegas</h2>
+                        <h4>No Golf Experience Required</h4> 
+                          
+                            <p>
+                           Anyone can play Topgolf, from aspiring pros to those who've never walked 18 holes. All you have to do is swing a club and try to hit your microchipped balls into dartboard-like targets. It's competitive. It's fun. And it's always better with a big group!                            
+									<br><br>Princing/Floors 1 & 2
+									<br><br>Open - Noon Noon - 5pm 5pm - Close
+									<br><br>Mon - Thurs $30 $45 $60
+									<br><br>Fri & Sat $45 $60 $75
+									<br><br>Sun $45 $60 $60
+									<br><br>Princing/Foor 3
+									<br><br>Open - Noon Noon - 5pm 5pm - Close
+									<br><br>Mon - Thurs $45 $60 $75
+									<br><br>Fri & Sat $60 $75 $90
+									<br><br>Sun $60 $75 $75
+									
+										</p>
+                          
+                     
+                          
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="destination-img">
+                            <img src="img/service/destination.png" alt="destination-image">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> <!-- End Top Golf Las Vegas -->
+                     
+                     
+                     
+     	
+                     	<!-- Golf at the Wynn Area -->
+                     <section class="service-home pt-115 pb-120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="service-home-img">
+                            <img src="img/service/service.png" alt="service-image">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 d-flex align-items-center">
+                        <div class="service-home-content">
+                            <h2>Golf at the Wynn</h2>
+                         
+                            
+                            
+                            <p>Located on hallowed grounds that played host to 50 years of PGA and LGPA Tour events, the golf course at Wynn Las Vegas was built upon a championship legacy. A breathtaking landscape of waterfalls, streams and a forest of trees envelop the contoured fairways to create a course for the discerning player that demands strategy, ingenuity and, most importantly, concentration.
+                            <br><br>
+                                                   
+                            
+										</p>
+                           
+                           
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> <!-- Golf at the Wynn Area -->                     
+                     
+                     
+                          <!-- ========= Angel Park Golf Club, Area========= -->
+        <section class="destination-area pt-115 pb-120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 d-flex align-items-center">
+                        <div class="destination-content">
+                            <h2>Angel Park Golf Club,</h2>
+                           
+                            <p>Welcome to Angel Park Golf Club, the "world's most complete Las Vegas golf experience." At almost 3000 feet in elevation, Angel Park offers spectacular views of Red Rock Canyon and the Las Vegas Valley. Angel Park Golf Club features 36 holes of championship Las Vegas golf designed by the legendary Arnold Palmer, the lighted Cloud Nine Short Course, and the world's original natural grass Putting Course.
+									
+                          
+                            <div class="des-feature">
+                                
+                               
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="destination-img">
+                            <img src="img/service/destination.png" alt="destination-image">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> <!-- End Angel Park Golf Club -->
+                     
+                     
+                     
+                     <!-- Bali Hai Golf Course -->
+                     <section class="service-home pt-115 pb-120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="service-home-img">
+                            <img src="img/service/service.png" alt="service-image">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 d-flex align-items-center">
+                        <div class="service-home-content">
+                            <h2>Bali Hai Golf Course</h2>
+                           
+                            
+                            
+                            <p>Bali Hai Golf Course is the Las Vegas Golf Club that transports you from the hustle and bustle of the casino floor, to 7,002 yards of tropical golfer's paradise. Within seconds of entering the property, yet with the skyline of the Strip still in sight, you will feel the mood and scenery change into the tranquility and beauty of a south pacific resort.
+									</p>
+                           
+                            
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> <!-- End "Bali Hai Golf Course -->      
+                     
+                     
+                          <!-- ========= Primm Valley Golf Course Area========= -->
+        <section class="destination-area pt-115 pb-120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 d-flex align-items-center">
+                        <div class="destination-content">
+                            <h2>Primm Valley Golf Course</h2>
+                          
+                           
+                            <p>For the greatest golf getaway in the game, there's only one place to play: Primm Valley Golf Club. Here the natural beauty of the land and ultimate challenge of the game come together to create one of the finest golf experiences in the world. Designed by renowned golf architect Tom Fazio, Primm Valley Golf Club features two award-winning courses, the Lakes Course and the Desert Course. Fazio has created a lush green, golfers paradise in the middle of the desert with distant mountains that shimmer golden in the morning, and turn serenely purple against an orange sky in the late afternoon.
+
+									</p>
+
+								
+
+                          
+                          
+                            <div class="des-feature">
+                                
+                               
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="destination-img">
+                            <img src="img/service/destination.png" alt="destination-image">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> <!-- End Primm Valley Golf Course -->
+                     
+                     
+                       <!-- "KOI Las Vegas" Area -->
+                     <section class="service-home pt-115 pb-120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="service-home-img">
+                            <img src="img/service/service.png" alt="service-image">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 d-flex align-items-center">
+                        <div class="service-home-content">
+                            <h2>TKOI Las Vegas</h2>
+                           
+                            
+                            
+                            <p>Koi Las Vegas, one of the hottest spots on the LA and New York dining scenes, has arrived at the Planet Hollywood Resort & Casino. A celebrity favorite, Koi has received praise for its Japanese-inspired cuisine with California accents. Koi's menu features a variety of savory cooked dishes, traditional sushi and sashimi, as well as creative rolls. The restaurant is wrapped in a seductive harmony of Asian design elements, combining an exotic Eastern aura with a genuine sense of Hollywood energy and style. 
+									</p>
+                           
+                           <h6><br>Sunday – Thursday 6:00 p.m. – 10:30 p.m <br><br> Friday and Saturday 6:00 p.m. – 11:30 p.m.</h6>
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> <!-- End "KOI Las Vegas" Service Area -->    
+
+
+<!-- ========= Rio Carnival World Buffet========= -->
+        <section class="destination-area pt-115 pb-120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 d-flex align-items-center">
+                        <div class="destination-content">
+                            <h2>Rio Carnival World Buffet</h2>
+                            
+                            
+                            <p>Recognized as the best buffet in Vegas year after year by guests and critics alike, the Carnival World Buffet has raised the bar in buffet dining once again, offering more variety in food choices (more than 300 dishes prepared fresh daily) and a new contemporary design that make the best buffet in Vegas even better.
+
+
+</p>
+                          <h6><br>Breakfast $14.99 plus tax, 7am-11am Mon-Fri, 7:30am – 10:30am Sat-Sun <br><br> Lunch $16.99 plus tax, 11am-3:30pm Mon-Fri<br><br>Dinner $23.99 plus tax, 3:30pm-10pm Nightly<br><br>Saturday & Sunday Champagne Brunch $23.99 plus tax, 9:00am-3:30pm</h6>
+                          
+                            <div class="des-feature">
+                                
+                               
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="destination-img">
+                            <img src="img/service/destination.png" alt="destination-image">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> <!-- End Rio Carnival World Buffet -->
+                     
+                 
+                     
+                 
+                     
+                     
+    							<!--FIN OPCION IMAGEN CUADRO-->                     
+                     
+                     
+                <!--modifico el texto -->
+                 
+    
+
+
+
+
+
+
+
+
+
+
+
+
+				<!--modifico el texto -->                    
+                 
+                 
+                   
+                <div class="contact-field">
+                    <form id="ajax-contact" action="mail.php" method="post">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6">
+                                <div class="single-contact-field">
+                                    <input type="text"  name="name" class="text-field" id="name" placeholder="First Name" required>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6">
+                                <div class="single-contact-field">
+                                    <input type="text"  name="last_name" class="text-field" id="l-name" placeholder="Last Name" required>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6">
+                                <div class="single-contact-field">
+                                    <input type="email"  name="email" class="text-field" id="email" placeholder="Your Email" required>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6">
+                                <div class="single-contact-field">
+                                    <input type="text"  name="phone" class="text-field" id="phone" placeholder="Phone Number" required>
+                                </div>
+                            </div>
+                            <div class="col-lg-12 col-md-12">
+                                <div class="single-contact-field">
+                                    <input type="text"  name="subject" class="text-field" id="subject" placeholder="Subject" required>
+                                </div>
+                            </div>
+                            <div class="col-lg-12 col-md-12">
+                                <div class="single-contact-field">
+                                    <textarea name="message" id="msg" placeholder="Your Message"></textarea>
+                                </div>
+                            </div>
+                            <div class="col-lg-12 col-md-12 text-center">
+                                <button type="submit" class="submit-btn">SEND NOW</button>
+                            </div>
+                        </div>
+                        <div id="form-messages"></div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <!-- End Contact area -->
+        <!-- footer start -->
+        <footer class="footer-area">
+            <div class="footer-top-area pt-110 pb-50">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-3 col-md-5 ">
+                            <div class="footer-widget mb-30">
+                                <h4 class="white">CONTACT US</h4>
+                                <p class="white">If you are going to use a passage of Lorem Ipsum, you need to be sure</p>
+                                <ul class="footer-social-icon">
+                                    <li>
+                                        <a href="#">
+                                            <i class="fab fa-facebook-f"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <i class="fab fa-twitter"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <i class="fab fa-google-plus-g"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <i class="fab fa-pinterest-p"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-2">
+                            <div class="footer-widget mb-30">
+                                <h4 class="white">NEWS</h4>
+                                <ul class="footer-link">
+                                    <li>
+                                        <a href="#">Subsciption</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">New Apps</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Download now</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-2">
+                            <div class="footer-widget mb-30">
+                                <h4 class="white">COMPANY</h4>
+                                <ul class="footer-link">
+                                    <li>
+                                        <a href="#">Screenshot</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Fetures</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Price</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-3">
+                            <div class="footer-widget mb-30">
+                                <h4 class="white">RESOURCES</h4>
+                                <ul class="footer-link">
+                                    <li>
+                                        <a href="#">Support</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Contact</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Privacy & term</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="copyright-area pb-50">
+                <div class="container">
+                    <p class="copyright text-center">Viva Las Vegas Tour And Travel</p>
+                </div>
+            </div>
+        </footer>
+        <!-- footer end -->
+
+		<!-- JS here -->
+        <script src="js/vendor/modernizr-3.5.0.min.js"></script>
+        <script src="js/vendor/jquery-1.12.4.min.js"></script>
+        <script src="js/popper.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/owl.carousel.min.js"></script>
+        <script src="js/isotope.pkgd.min.js"></script>
+        <script src="js/jquery.nice-select.min.js"></script>
+        <script src="js/ajax-form.js"></script>
+        <script src="js/jquery-ui.js"></script>
+        <script src="js/jquery.meanmenu.min.js"></script>
+        <script src="js/waypoint.js"></script>
+        <script src="js/slick.min.js"></script>
+        <script src="js/jquery.counterup.min.js"></script>
+        <script src="js/imagesloaded.pkgd.min.js"></script>
+        <script src="js/jquery.magnific-popup.min.js"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDC3Ip9iVC0nIxC6V14CKLQ1HZNF_65qEQ "></script>
+        <script src="js/plugins.js"></script>
+        <script src="js/main.js"></script>
+    </body>
+</html>

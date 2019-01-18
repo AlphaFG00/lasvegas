@@ -1,0 +1,907 @@
+<!doctype html>
+<html class="no-js" lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Viva Las Vegas Tour and Travel</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="manifest" href="site.webmanifest">
+		<link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
+        <!-- Place favicon.ico in the root directory -->
+		<!-- CSS here -->
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+		<link rel="stylesheet" href="css/nice-select.css">
+        <link rel="stylesheet" href="css/animate.css">
+        <link rel="stylesheet" href="css/owl.carousel.min.css">
+        <link rel="stylesheet" href="css/magnific-popup.css">
+        <link rel="stylesheet" href="css/fontawesome-all.min.css">
+        <link rel="stylesheet" href="css/meanmenu.css">
+        <link rel="stylesheet" href="css/icofont.css">
+        <link rel="stylesheet" href="css/jquery-ui.css">
+        <link rel="stylesheet" href="css/default.css">
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/responsive.css">
+    </head>
+    <body>
+        <!--[if lte IE 9]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+        <![endif]-->
+        <!-- Start Header Area -->
+        <header class="header-area">
+            <div class="container">
+                <div class="header-top separator d-none d-md-block">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-8">
+                            <div class="call-to-action">
+                                <span>Contact us :</span>
+                                <i class="fas fa-phone"></i>
+                                +1 702 460-7120  (Sunday - Friday : 9:00am - 5:00pm)
+                            </div>
+                        </div>
+                        <div class="col-lg-5 col-md-2">
+                            <div class="header-social-icon f-right">
+                                <ul>
+                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-pinterest-p"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-1 col-md-2">
+                            <div class="user-account text-right">
+                                <a href="#">ACCOUNT</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="main-menu">
+                    <div class="row">
+                        <div class="col-lg-3 d-flex align-items-center">
+                            <div class="logo">
+                                <a href="index.html"><img src="img/logo/logo.png" alt="logo"></a>
+                            </div>
+                        </div>
+                        <div class="col-lg-9">
+                            <div class="basic-menu f-right">
+                                <nav id="mobile-menu">
+                                    <ul>
+                                        <li>
+                                            <a href="index.html">HOME </a>
+                                           
+                                        </li>
+                                        <li>
+                                            <a href="Transfers.html">TRANSFERS</a>
+                                        </li>
+                                        <li>
+                                            <a href="Tours.html">TOURS</a>
+                                        </li>
+                                        <li>
+                                            <a href="package-3-col.html">EXTRAS <i class="icofont icofont-rounded-down"></i></a>
+                                            <ul>
+                                                <li><a href="Special.html"> Special Events</a></li>
+                                                <li><a href="Weddings.html"> Weddings</a></li>
+                                                <li><a href="Nightlife.html"> Nightlife</a></li>
+                                                <li><a href="Restaurants.html"> Restaurants</a></li>
+                                                <li><a href="Golf.html"> Golf</a></li>
+                                                <li><a href="Conventions.html"> Conventions</a></li>
+																<li><a href="Rentalcars.html"> Rental Cars</a></li>				
+                                                      
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="#">SHOWS</a>
+                                          
+                                        </li>
+                                        <li>
+                                            <a href="blog.html">ABOUT US</a>
+                                           
+                                        </li>
+                                        <li>
+                                            <a href="Contactus.html">CONTACT</a>
+                                        </li>
+                                    </ul>
+                                </nav>
+                            </div>
+                            <div class="mobile-menu"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- End Header Area -->
+		<!-- ========= Start Slider Area========= -->
+        <section class="slider-area">
+            <div class="slider-active owl-carousel">
+                <div class="single-slider" style="background: url(img/slider/slider.jpg);">
+                    <div class="container">
+                        <div class="slider-content text-center">
+                            <h1>VIVA LAS VEGAS TOURS AND TRAVEL</h1>
+                            <h4>Get to know the city of Las Vegas and its surrounding desert beauty in one of our tours…</h4>
+                            <a class="btn-1" href="#">EXPLORE MORE</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="single-slider" style="background: url(img/slider/slider.jpg);">
+                    <div class="container">
+                        <div class="slider-content text-center">
+                            <h1>VIVA LAS VEGAS TOURS AND TRAVEL</h1>
+                            <h4>PERFECT WORLD TRAVEL AGENCY</h4>
+                            <a class="btn-1" href="#">EXPLORE MORE</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="single-slider" style="background: url(img/slider/slider.jpg);">
+                    <div class="container">
+                        <div class="slider-content text-center">
+                            <h1>POPULAR WORLD SCENE</h1>
+                            <h4>PERFECT WORLD TRAVEL AGENCY</h4>
+                            <a class="btn-1" href="#">EXPLORE MORE</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> <!-- End Slider Area -->
+        <!-- ========= Start Booking Area========= 
+        <div class="booking-area">
+            <div class="container">
+                <div class="booking-option">
+					<div class="top-bar-option">
+						<div class="top-button s-btn">
+							search now
+						</div>
+						<div class="top-button theme-bg">
+							<div class="top-button-inner icon-none">
+                                <img src="img/icon/hotel-icon.png" alt="" />
+                                <select name="location" id="hotel">
+                                    <option value="Dhaka">HOTEL</option>
+                                    <option value="Rajshahi">Rajshahi</option>
+                                    <option value="Chitagong">Chitagong</option>
+                                    <option value="SKhulna">SKhulna</option>
+                                </select>
+                            </div>
+						</div>
+					</div>
+                    <div class="form-action form-action-one">
+                        <ul class="select-bar">
+                            <li class="location">
+                                <select name="location" class="location-here">
+                                    <option value="Dhaka">Location </option>
+                                    <option value="Rajshahi">Rajshahi</option>
+                                    <option value="Chitagong">Chitagong</option>
+                                    <option value="SKhulna">SKhulna</option>
+                                </select>
+                            </li>
+                            <li class="location">
+                                <form class="icon" action="#">
+                                    <input class="datepicker" type="text" placeholder="Check in">
+                                </form>
+                            </li>
+                            <li class="location">
+                                <form class="icon" action="#">
+                                    <input class="datepicker" type="text" placeholder="Checkout">
+                                </form>
+                            </li>
+                            <li class="location">
+                                <select name="location" class="location-here">
+                                    <option value="Dhaka">Room</option>
+                                    <option value="Rajshahi">Single</option>
+                                    <option value="Chitagong">Double</option>
+                                    <option value="SKhulna">Double</option>
+                                </select>
+                            </li>
+                            <li class="location">
+                                <select name="location" class="location-here member">
+                                    <option value="Dhaka">Member</option>
+                                    <option value="Rajshahi">1 Person</option>
+                                    <option value="Chitagong">2 Person</option>
+                                    <option value="SKhulna">3 Person</option>
+                                </select>
+                            </li>
+                        </ul>
+                        <div class="filter-part">
+                            <div class="range-wrapper">
+                                <div class="range-input">
+                                    <input type="text" id="amount" readonly style="border:0; color:#f6931f; font-weight:bold;">
+                                </div>
+                                <label for="amount">Budget Now :</label>
+                                <div id="slider-range"></div>
+                            </div>
+                            <div class="filter-button">
+                                <button type="submit">SEARCH NOW</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- ========= Start Feature Area=========      <!-- feature-area start 
+        <section class="feature-area">
+            <div class="container">
+				<div class="separator pt-115 pb-110">
+                    <div class="row">
+                        <div class="col-lg-4 col-md-4">
+                            <div class="single-feature-item d-lg-flex align-items-center">
+                                <div class="feature-img">
+                                    <img src="img/icon/tower.png" alt="feature-img">
+                                </div>
+                                <div class="feature-content">
+                                    <h4>DESTINATION</h4>
+                                    <p>We denounce with righteous more.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4">
+                            <div class="single-feature-item d-lg-flex align-items-center">
+                                <div class="feature-img">
+                                    <img src="img/icon/rate.png" alt="feature-img">
+                                </div>
+                                <div class="feature-content">
+                                    <h4>TOP PLACE</h4>
+                                    <p>We denounce with righteous more.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4">
+                            <div class="single-feature-item d-lg-flex align-items-center">
+                                <div class="feature-img">
+                                    <img src="img/icon/notebook.png" alt="feature-img">
+                                </div>
+                                <div class="feature-content">
+                                    <h4>BOOKING NOW</h4>
+                                    <p>We denounce with righteous more.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End Feature Area -->
+        <!-- ========= Start Home Service Area========= -->
+        <section class="service-home pt-115 pb-120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="service-home-img">
+                            <img src="img/service/service.png" alt="service-image">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 d-flex align-items-center">
+                        <div class="service-home-content">
+                            <h2>POPULAR SERVICE</h2>
+                            <h5>text</h5>
+                            <p>more text.</p>
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> <!-- End Home Service Area -->
+        <!-- ========= Start Video Area========= -
+        <section class="video-home" data-overlay="5">
+            <div class="container">
+                <div class="video-content text-center">
+                    <a href="https://youtu.be/vYZgcLKiU0c" class="video-play mfp-iframe">
+                        <i class="icofont icofont-ui-play"></i>
+                    </a>
+                    <h3>LAS VEGAS</h3>
+                </div>
+            </div>
+        </section> <!-- End Video Area -->
+       
+      
+		<!-- ========= Start Package Area========= -->
+        <section class="package-area home-package pt-110 pb-90" data-overlay="3">
+            <div class="container">
+                <div class="section-title text-center pb-45">
+                    <h2 class="white">POPULAR PACKAGES</h2>
+                    <h4 class="white">TRAVEL EXPRESS PROVIDE</h4>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="single-package mb-30">
+                            <div class="package-img">
+                                <img src="img/package/pack-1.jpg" alt="package image">
+                                <div class="package-cost">$20</div>
+                            </div>
+                            <h5 class="white"><span>SHOPPING TOUR</span> - Free Coupons</h5>
+                            <p class="white">This tour consists of picking up the guest at their hotel and transporting them to the mall or outlet of their choice in Las Vegas where all your shopping requirements will be found. They will also be returned to their point of origin or any other location on the Las Vegas Strip or downtown.</p>
+                            <a class="read-more" href="#">READ MORE <i class="icofont icofont-arrow-right"></i></a>
+                        </div>
+                    </div> <!-- End Single Package -->
+                    <div class="col-lg-4">
+                        <div class="single-package mb-30">
+                            <div class="package-img">
+                                <img src="img/package/pack-2.jpg" alt="package image">
+                                <div class="package-cost">$3000</div>
+                            </div>
+                            <h5 class="white"><span>GRAND VOYAGER EXCLUSIVE</span> - poner texto</h5>
+                            <p class="white">Daily Duration aprox. 6.5 hrs complimentary limo pick up and drop-off from Hotel to Hotel. For those who wish to maximize your Grand Canyon experience, this is the best and most complete tour. You'll fly over the Hoover Dam, Lake </p>
+                            <a class="read-more" href="#">READ MORE <i class="icofont icofont-arrow-right"></i></a>
+                        </div>
+                    </div> <!-- End Single Package -->
+                    <div class="col-lg-4 ">
+                        <div class="single-package mb-30">
+                            <div class="package-img">
+                                <img src="img/package/Skywalk.jpg" alt="package image">
+                                <div class="package-cost">$3000</div>
+                            </div>
+                            <h5 class="white"><span>SKYWALK EXPRESS TOUR</span> - 3 Days, 2 Nights</h5>
+                            <p class="white">Daily Duration aprox 3.5 hrs from Hotel to Hotel in Limousine Your tour begins with your flight in helicopter over the spectacular views over the Hoover Dam, Lake Mead, and the majestic Grand Canyon (West Rim).</p>
+                            <a class="read-more" href="#">READ MORE <i class="icofont icofont-arrow-right"></i></a>
+                        </div>
+                    </div> <!-- End Single Package -->
+                </div>
+                <div class="more-package text-center">
+                    <a class="btn-1 more-pack" href="Tours.html">MORE PACKAGE</a>
+                </div>
+            </div>
+        </section>
+        <!-- ========= Start Popular Place Area========= -->
+        <section class="popular-place pt-110 pb-90">
+            <div class="container">
+                <div class="section-title text-center pb-60">
+                    <h2>EXPLORE MORE POPULAR PLACE</h2>
+                    <h4>WE HAVE....</h4>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="pp-list-item">
+                            <div class="single-pp">
+                                <div class="single-pp-thumb">
+                                    <img src="img/package/skw.jpg" alt="popular image">
+                                </div>
+                                <div class="pp-wrapper-content">
+                                    <div class="popular-pp-info">
+                                        <a href="#">
+                                            <h5>Skywalk Express Tour</h5>
+                                        </a>
+                                        <p>Gtexto descripcion</p>
+                                       <div class="package-meta">
+                                            <span>
+                                                <i class="icofont icofont-ui-rating"></i>20</span>
+                                            <span>
+                                                <i class="far fa-heart"></i>10</span>
+                                            <span>
+                                                <i class="far fa-comment"></i>5</span>
+                                       </div>
+                                    </div>
+                                    <div class="popular-p-pricing">
+                                        <span>$5000</span>
+                                        <a class="btn-1 pp-btn" href="#">View Details</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pp-list-item">
+                            <div class="single-pp">
+                                <div class="single-pp-thumb">
+                                    <img src="img/package/cansun3.jpg" alt="popular image">
+                                </div>
+                                <div class="popular-pp-info">
+                                    <a href="#"><h5>Grand Canyon Sunset</h5></a>
+                                    <p>Victoria Falls, 5 Days, 4 Night Tour</p>
+                                    <div class="package-meta">
+                                        <span>
+                                            <i class="icofont icofont-ui-rating"></i>20</span>
+                                        <span>
+                                            <i class="far fa-heart"></i>10</span>
+                                        <span>
+                                            <i class="far fa-comment"></i>5</span>
+                                   </div>
+                                </div>
+                                <div class="popular-p-pricing">
+                                    <span>$5000</span>
+                                    <a class="btn-1 pp-btn" href="#">View Details</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pp-list-item">
+                            <div class="single-pp">
+                                <div class="single-pp-thumb">
+                                    <img src="img/package/picnic3.jpg" alt="popular image">
+                                </div>
+                                <div class="popular-pp-info">
+                                    <a href="#"><h5>Grand Canyon Picnic</h5></a>
+                                    <p>Victoria Falls, 5 Days, 4 Night Tour</p>
+                                    <div class="package-meta">
+                                        <span>
+                                            <i class="icofont icofont-ui-rating"></i>20</span>
+                                        <span>
+                                            <i class="far fa-heart"></i>10</span>
+                                        <span>
+                                            <i class="far fa-comment"></i>5</span>
+                                   </div>
+                                </div>
+                                <div class="popular-p-pricing">
+                                    <span>$5000</span>
+                                    <a class="btn-1 pp-btn" href="#">View Details</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pp-list-item">
+                            <div class="single-pp">
+                                <div class="single-pp-thumb">
+                                    <img src="img/package/helnig3.jpg" alt="popular image">
+                                </div>
+                                <div class="popular-pp-info">
+                                    <a href="#"><h5>Helicopter Night Tour</h5></a>
+                                    <p>Victoria Falls, 5 Days, 4 Night Tour</p>
+                                    <div class="package-meta">
+                                        <span>
+                                            <i class="icofont icofont-ui-rating"></i>20</span>
+                                        <span>
+                                            <i class="far fa-heart"></i>10</span>
+                                        <span>
+                                            <i class="far fa-comment"></i>5</span>
+                                   </div>
+                                </div>
+                                <div class="popular-p-pricing">
+                                    <span>$5000</span>
+                                    <a class="btn-1 pp-btn" href="#">View Details</a>
+                                </div>
+                            </div>
+                        </div>
+                        
+<!-- ========= modifico para los que van en la izquierda========= -->                         
+                        <div class="pp-list-item">
+                            <div class="single-pp">
+                                <div class="single-pp-thumb">
+                                    <img src="img/package/slotzila3.jpg" alt="popular image">
+                                </div>
+                                <div class="popular-pp-info">
+                                    <a href="#"><h5>SlotZilla At Fremont Street Experience</h5></a>
+                                    <p>Victoria Falls, 5 Days, 4 Night Tour</p>
+                                    <div class="package-meta">
+                                        <span>
+                                            <i class="icofont icofont-ui-rating"></i>20</span>
+                                        <span>
+                                            <i class="far fa-heart"></i>10</span>
+                                        <span>
+                                            <i class="far fa-comment"></i>5</span>
+                                   </div>
+                                </div>
+                                <div class="popular-p-pricing">
+                                    <span>$5000</span>
+                                    <a class="btn-1 pp-btn" href="#">View Details</a>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="pp-list-item">
+                            <div class="single-pp">
+                                <div class="single-pp-thumb">
+                                    <img src="img/package/skydiving3.jpg" alt="popular image">
+                                </div>
+                                <div class="popular-pp-info">
+                                    <a href="#"><h5>Vegas Extreme Skydiving</h5></a>
+                                    <p>Victoria Falls, 5 Days, 4 Night Tour</p>
+                                    <div class="package-meta">
+                                        <span>
+                                            <i class="icofont icofont-ui-rating"></i>20</span>
+                                        <span>
+                                            <i class="far fa-heart"></i>10</span>
+                                        <span>
+                                            <i class="far fa-comment"></i>5</span>
+                                   </div>
+                                </div>
+                                <div class="popular-p-pricing">
+                                    <span>$5000</span>
+                                    <a class="btn-1 pp-btn" href="#">View Details</a>
+                                </div>
+                            </div>
+                        </div>
+                        
+                          <div class="pp-list-item">
+                            <div class="single-pp">
+                                <div class="single-pp-thumb">
+                                    <img src="img/package/indoor3.jpg" alt="popular image">
+                                </div>
+                                <div class="popular-pp-info">
+                                    <a href="#"><h5>Las Vegas Indoor Skydiving</h5></a>
+                                    <p>Victoria Falls, 5 Days, 4 Night Tour</p>
+                                    <div class="package-meta">
+                                        <span>
+                                            <i class="icofont icofont-ui-rating"></i>20</span>
+                                        <span>
+                                            <i class="far fa-heart"></i>10</span>
+                                        <span>
+                                            <i class="far fa-comment"></i>5</span>
+                                   </div>
+                                </div>
+                                <div class="popular-p-pricing">
+                                    <span>$5000</span>
+                                    <a class="btn-1 pp-btn" href="#">View Details</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pp-list-item">
+                            <div class="single-pp">
+                                <div class="single-pp-thumb">
+                                    <img src="img/package/high3.jpg" alt="popular image">
+                                </div>
+                                <div class="popular-pp-info">
+                                    <a href="#"><h5>The High Roller – </h5></a>
+                                    <p>At The Linq</p>
+                                    <div class="package-meta">
+                                        <span>
+                                            <i class="icofont icofont-ui-rating"></i>20</span>
+                                        <span>
+                                            <i class="far fa-heart"></i>10</span>
+                                        <span>
+                                            <i class="far fa-comment"></i>5</span>
+                                   </div>
+                                </div>
+                                <div class="popular-p-pricing">
+                                    <span>$5000</span>
+                                    <a class="btn-1 pp-btn" href="#">View Details</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pp-list-item">
+                            <div class="single-pp">
+                                <div class="single-pp-thumb">
+                                    <img src="img/package/pp-4.jpg" alt="popular image">
+                                </div>
+                                <div class="popular-pp-info">
+                                    <a href="#"><h5>otro – </h5></a>
+                                    <p>At The Linq</p>
+                                    <div class="package-meta">
+                                        <span>
+                                            <i class="icofont icofont-ui-rating"></i>20</span>
+                                        <span>
+                                            <i class="far fa-heart"></i>10</span>
+                                        <span>
+                                            <i class="far fa-comment"></i>5</span>
+                                   </div>
+                                </div>
+                                <div class="popular-p-pricing">
+                                    <span>$5000</span>
+                                    <a class="btn-1 pp-btn" href="#">View Details</a>
+                                </div>
+                            </div>
+                        </div>
+                        
+                          
+                        <!-- ========= fin modifico izquierda========= --> 
+                    </div>
+
+
+
+
+                     
+                                            
+                    
+                    <div class="col-lg-6">
+                        <div class="pp-list-item-right">
+                            <div class="single-pp">
+                                <div class="single-pp-thumb">
+                                    <img src="img/package/disney3.jpg" alt="popular image">
+                                </div>
+                                <div class="popular-pp-info">
+                                    <a href="#"><h5>DISNEYLAND (ORIGINAL) </h5></a>
+                                    <p>SOUTHERN CALIFORNIA</p>
+                                    <div class="package-meta">
+                                        <span>
+                                            <i class="icofont icofont-ui-rating"></i>20</span>
+                                        <span>
+                                            <i class="far fa-heart"></i>10</span>
+                                        <span>
+                                            <i class="far fa-comment"></i>5</span>
+                                   </div>
+                                </div>
+                                <div class="popular-p-pricing">
+                                    <span>$5000</span>
+                                    <a class="btn-1 pp-btn" href="#">View Details</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pp-list-item-right">
+                            <div class="single-pp">
+                                <div class="single-pp-thumb">
+                                    <img src="img/package/lax3.jpg" alt="popular image">
+                                </div>
+                                <div class="popular-pp-info">
+                                    <a href="#"><h5>Los Angeles City Tour</h5></a>
+                                    <p>Victoria Falls, 5 Days, 4 Night Tour</p>
+                                    <div class="package-meta">
+                                        <span>
+                                            <i class="icofont icofont-ui-rating"></i>20</span>
+                                        <span>
+                                            <i class="far fa-heart"></i>10</span>
+                                        <span>
+                                            <i class="far fa-comment"></i>5</span>
+                                   </div>
+                                </div>
+                                <div class="popular-p-pricing">
+                                    <span>$5000</span>
+                                    <a class="btn-1 pp-btn" href="#">View Details</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pp-list-item-right">
+                            <div class="single-pp">
+                                <div class="single-pp-thumb">
+                                    <img src="img/package/nite3.jpg" alt="popular image">
+                                </div>
+                                <div class="popular-pp-info">
+                                    <a href="#"><h5>City Night Tour</h5></a>
+                                    <p>Victoria Falls, 5 Days, 4 Night Tour</p>
+                                    <div class="package-meta">
+                                        <span>
+                                            <i class="icofont icofont-ui-rating"></i>20</span>
+                                        <span>
+                                            <i class="far fa-heart"></i>10</span>
+                                        <span>
+                                            <i class="far fa-comment"></i>5</span>
+                                   </div>
+                                </div>
+                                <div class="popular-p-pricing">
+                                    <span>$5000</span>
+                                    <a class="btn-1 pp-btn" href="#">View Details</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pp-list-item-right">
+                            <div class="single-pp">
+                                <div class="single-pp-thumb">
+                                    <img src="img/package/hoover3.jpg" alt="popular image">
+                                </div>
+                                <div class="popular-pp-info">
+                                    <a href="#"><h5>Tour Hoover Dam</h5></a>
+                                    <p>Victoria Falls, 5 Days, 4 Night Tour</p>
+                                    <div class="package-meta">
+                                        <span>
+                                            <i class="icofont icofont-ui-rating"></i>20</span>
+                                        <span>
+                                            <i class="far fa-heart"></i>10</span>
+                                        <span>
+                                            <i class="far fa-comment"></i>5</span>
+                                   </div>
+                                </div>
+                                <div class="popular-p-pricing">
+                                    <span>$5000</span>
+                                    <a class="btn-1 pp-btn" href="#">View Details</a>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+
+
+                        
+<!-- ========= modifico para los que van en la derecha========= --> 
+
+
+                 <div class="pp-list-item-right">
+                            <div class="single-pp">
+                                <div class="single-pp-thumb">
+                                    <img src="img/package/pole3.jpg" alt="popular image">
+                                </div>
+                                <div class="popular-pp-info">
+                                    <a href="#"><h5>Pole Position Raceway Indoor Karting</h5></a>
+                                    <p>Victoria Falls, 5 Days, 4 Night Tour</p>
+                                    <div class="package-meta">
+                                        <span>
+                                            <i class="icofont icofont-ui-rating"></i>20</span>
+                                        <span>
+                                            <i class="far fa-heart"></i>10</span>
+                                        <span>
+                                            <i class="far fa-comment"></i>5</span>
+                                   </div>
+                                </div>
+                                <div class="popular-p-pricing">
+                                    <span>$5000</span>
+                                    <a class="btn-1 pp-btn" href="#">View Details</a>
+                                </div>
+                            </div>
+                        </div>
+                        
+                         <div class="pp-list-item-right">
+                            <div class="single-pp">
+                                <div class="single-pp-thumb">
+                                    <img src="img/package/strato3.jpg" alt="popular image">
+                                </div>
+                                <div class="popular-pp-info">
+                                    <a href="#"><h5>Stratosphere Tower & Rides</h5></a>
+                                    <p>Victoria Falls, 5 Days, 4 Night Tour</p>
+                                    <div class="package-meta">
+                                        <span>
+                                            <i class="icofont icofont-ui-rating"></i>20</span>
+                                        <span>
+                                            <i class="far fa-heart"></i>10</span>
+                                        <span>
+                                            <i class="far fa-comment"></i>5</span>
+                                   </div>
+                                </div>
+                                <div class="popular-p-pricing">
+                                    <span>$5000</span>
+                                    <a class="btn-1 pp-btn" href="#">View Details</a>
+                                </div>
+                            </div>
+                        </div>
+
+							
+                         <div class="pp-list-item-right">
+                            <div class="single-pp">
+                                <div class="single-pp-thumb">
+                                    <img src="img/package/gcsky3.jpg" alt="popular image">
+                                </div>
+                                <div class="popular-pp-info">
+                                    <a href="#"><h5>Grand Canyon(Skywalk)</h5></a>
+                                    <p> Bus Tour or Private</p>
+                                    <div class="package-meta">
+                                        <span>
+                                            <i class="icofont icofont-ui-rating"></i>20</span>
+                                        <span>
+                                            <i class="far fa-heart"></i>10</span>
+                                        <span>
+                                            <i class="far fa-comment"></i>5</span>
+                                   </div>
+                                </div>
+                                <div class="popular-p-pricing">
+                                    <span>$5000</span>
+                                    <a class="btn-1 pp-btn" href="#">View Details</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pp-list-item-right">
+                            <div class="single-pp">
+                                <div class="single-pp-thumb">
+                                    <img src="img/package/SF3.jpg" alt="popular image">
+                                </div>
+                                <div class="popular-pp-info">
+                                    <a href="#"><h5>San Francisco Northern </h5></a>
+                                    <p>California</p>
+                                    <div class="package-meta">
+                                        <span>
+                                            <i class="icofont icofont-ui-rating"></i>20</span>
+                                        <span>
+                                            <i class="far fa-heart"></i>10</span>
+                                        <span>
+                                            <i class="far fa-comment"></i>5</span>
+                                   </div>
+                                </div>
+                                <div class="popular-p-pricing">
+                                    <span>$5000</span>
+                                    <a class="btn-1 pp-btn" href="#">View Details</a>
+                                </div>
+                            </div>
+                        </div>
+                        
+                         <div class="pp-list-item-right">
+                            <div class="single-pp">
+                                <div class="single-pp-thumb">
+                                    <img src="img/package/napa3.jpg" alt="popular image">
+                                </div>
+                                <div class="popular-pp-info">
+                                    <a href="#"><h5>Napa Valley</h5></a>
+                                    <p>Victoria Falls, 5 Days, 4 Night Tour</p>
+                                    <div class="package-meta">
+                                        <span>
+                                            <i class="icofont icofont-ui-rating"></i>20</span>
+                                        <span>
+                                            <i class="far fa-heart"></i>10</span>
+                                        <span>
+                                            <i class="far fa-comment"></i>5</span>
+                                   </div>
+                                </div>
+                                <div class="popular-p-pricing">
+                                    <span>$5000</span>
+                                    <a class="btn-1 pp-btn" href="#">View Details</a>
+                                </div>
+                            </div>
+                        </div>
+<!-- ========= fin modifico derecha========= -->                       
+                        
+                        
+                        
+                        
+                        
+                    </div>
+                </div>
+            </div>
+        </section>
+      
+       
+      
+      
+        <!-- ========= Start Footer Area========= -->
+        <!-- footer start -->
+        <footer class="footer-area">
+            <div class="footer-top-area pt-110 pb-50">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-3 col-md-5 ">
+                            <div class="footer-widget mb-30">
+                                <h4 class="violet">CONTACT US</h4>
+                                <p class="violet">If you are going to use a passage of Lorem Ipsum, you need to be sure</p>
+                                <ul class="footer-social-icon">
+                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-pinterest-p"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-2">
+                            <div class="footer-widget mb-30">
+                                <h4 class="violet">NEWS</h4>
+                                <ul class="footer-link">
+                                    <li>
+                                        <a href="#">Subsciption</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">New Apps</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Download now</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-2">
+                            <div class="footer-widget mb-30">
+                                <h4 class="violet">COMPANY</h4>
+                                <ul class="footer-link">
+                                    <li>
+                                        <a href="#">Screenshot</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Fetures</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Price</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-3">
+                            <div class="footer-widget mb-30">
+                                <h4 class="violet">RESOURCES</h4>
+                                <ul class="footer-link">
+                                    <li>
+                                        <a href="#">Support</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Contact</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Privacy & term</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="copyright-area pb-50">
+                <div class="container">
+                    <p class="copyright text-center">VIVA LAS VEGAS TOUR AND TRAVEL</p>
+                </div>
+            </div>
+        </footer>
+        <!-- footer end -->
+
+		<!-- JS here -->
+        <script src="js/vendor/modernizr-3.5.0.min.js"></script>
+        <script src="js/vendor/jquery-1.12.4.min.js"></script>
+        <script src="js/popper.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/owl.carousel.min.js"></script>
+        <script src="js/isotope.pkgd.min.js"></script>
+        <script src="js/jquery.nice-select.min.js"></script>
+        <script src="js/slick.min.js"></script>
+        <script src="js/ajax-form.js"></script>
+        <script src="js/jquery-ui.js"></script>
+        <script src="js/waypoint.js"></script>
+        <script src="js/jquery.counterup.min.js"></script>
+        <script src="js/imagesloaded.pkgd.min.js"></script>
+        <script src="js/jquery.magnific-popup.min.js"></script>
+        <script src="js/plugins.js"></script>
+        <script src="js/main.js"></script>
+    </body>
+</html>

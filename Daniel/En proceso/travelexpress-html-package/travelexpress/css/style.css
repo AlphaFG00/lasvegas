@@ -40,6 +40,10 @@
 	max-width: 100%;
 	transition: all 0.3s ease-out 0s;
 }
+img#LeeCanyon{
+   height: 200px;
+  width: 20%;
+}
 .f-left {
 	float: left
 }

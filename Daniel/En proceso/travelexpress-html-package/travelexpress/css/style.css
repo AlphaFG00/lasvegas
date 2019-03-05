@@ -40,6 +40,10 @@
 	max-width: 100%;
 	transition: all 0.3s ease-out 0s;
 }
+img#traslado {
+    height: 135px;
+    width: 157px;
+}
 img#LeeCanyon{
    height: 200px;
   width: 20%;

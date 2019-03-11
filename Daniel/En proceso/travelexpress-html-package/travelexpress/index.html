@@ -22,6 +22,7 @@
         <link rel="stylesheet" href="css/default.css">
         <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/responsive.css">
+    
     </head>
     <body>
         <!--[if lte IE 9]>
@@ -342,6 +343,7 @@
         <!-- ========= Start Popular Place Area========= -->
         <!--APARTADO DE PAQUETES DE VACACIONES -->
         <section class="popular-place pt-110 pb-90">
+            <script type="text/javascript" src="js/efecto.js"></script>
             <div class="container">
                 <div class="section-title text-center pb-60">
                     <h2>EXPLORE MORE POPULAR PLACE</h2>
@@ -364,9 +366,9 @@
                                         </p>
 
                                     </p>
-                                </div>
+                                </div>       
                                 <div class="pp-wrapper-content">
-                                    <div class="popular-pp-info">
+                                    <div id ="caja" class="popular-pp-info" style='display:none;'>
                                         <p> 
                                         Aterrice en la cima del borde oeste del cañón para experimentar la maravilla arquitectónica del puente Skywalk. Suspendido a 4,000 pies sobre el piso del cañón, el Skywalk es más alto que cualquier rascacielos en el mundo y forma un emocionante camino con forma de herradura que se eleva a 70 pies del borde del cañón. Desafíate a caminar por sus pisos de vidrio transparente y analiza las profundidades insondables a continuación. después, explore Eagle Point y mire por el borde del Gran Cañón.
                                         </p>
@@ -383,8 +385,7 @@
                                        </div>
                                     </div>
                                     <div class="popular-p-pricing">
-                                        
-                                        <a class="btn-1 pp-btn" href="#">View Details</a>
+                                       <input type="submit" id="boton" type="button" class="btn-1 pp-btn"  value="Ver Mas" onclick="dinamica()"></input>
                                     </div>
                                 </div>
                             </div>
@@ -402,8 +403,7 @@
                                     </p>
                                     </p>
                                 </div>
-                                <div class="popular-pp-info">
-                                   
+                                    <div id ="cajados" class="popular-pp-info" style='display:none;'>                                   
                                     <p>
                                        Disfrute de las vistas panorámicas de los principales lugares de interés entre Las Vegas y el Gran Cañón, incluyendo la presa Hoover, el lago Meas y el vasto desierto de Mojave, antes de disfrutar de un picnic con champaña en el cañón. Descenderemos 3,200 pies a nuestra área de aterrizaje privado con vista al Colorado Río, rodeado por la belleza de los tonos naturales de rojo, marrón y amarillo de las paredes del cañón.
                                     </p>
@@ -422,7 +422,7 @@
                                 </div>
                                 <div class="popular-p-pricing">
                                     
-                                    <a class="btn-1 pp-btn" href="#">View Details</a>
+                                   <input type="submit" id="botondos" type="button" class="btn-1 pp-btn"  value="Ver Mas" onclick="dinamica()"></input>
                                 </div>
                             </div>
                         </div>
@@ -430,16 +430,18 @@
                         <!-- INICIA PAQUETE -->
                         <div class="pp-list-item">
                             <div class="single-pp">
-                                <div class="single-pp-thumb">
+                                <div class="single-pp-thumb">                             
                                     <p>
                                     <img src="img/package/helnig3.jpg" alt="popular image" align="left">
                                     <a href="#"><h5>&nbsp;&nbsp;City Lights Helicopter Tour &nbsp;&nbsp;Flight Only
+                                        <span>$120</span>
+                                    </a>
                                     <p>&nbsp;&nbsp;Hotel a hotel 2 horas de recorrido. &nbsp;&nbsp;Audio en español disponible.</p>
 
                                     </p>
 
                                 </div>
-                                <div class="popular-pp-info">
+                                <div id ="oculto" class="popular-pp-info" style='display:none;'>  
                                    <p>
                                        Una limusina lo llevará a nuestra terminal privada justo al lado de la franja. Una vez en el aire, busque MGM Grand, The Flamingo y The Venetian en dirección al centro de Fremont Street Experience. Regresando, pase la Torre de la Stratosfera, el Caesars Palace y observe las Fuentes de Bellagio antes de ver el horizonte de Nueva York-Nueva York y el brillante haz de la pirámide de Luxor. Ninguna vista del ático ni siquiera se acerca.
 
@@ -457,7 +459,7 @@
                                    </div>
                                 </div>
                                 <div class="popular-p-pricing">
-                                    <span>$120</span>
+                                    
                                     <a class="btn-1 pp-btn" href="#">View Details</a>
                                 </div>
                             </div>
@@ -483,7 +485,7 @@
                                     </p>
 
                                 </div>
-                                <div class="popular-pp-info">
+                                <div id ="oculto" class="popular-pp-info" style='display:none;'>
                                     <p>
                                         ¿Buscas eso una vez en una aventura de por vida? 
                                         ¿Quieres que te bombee la adrenalina? 
@@ -526,7 +528,7 @@
 
                                     </p>
                                 </div>
-                                <div class="popular-pp-info">
+                                <div id ="oculto" class="popular-pp-info" style='display:none;'>
                                     
                                      <p>
                                         Con amplias vistas de 360 grados del Valle de las Vegas y The Strip, la rueda tarda 30 minutos para completar una revolución y cuenta con 28 espaciosas cabinas para acomodar a los huéspedes.
@@ -573,7 +575,7 @@
                                     </p>
 
                                 </div>
-                                <div class="popular-pp-info">
+                                <div id ="oculto" class="popular-pp-info" style='display:none;'>
                                     
                                     <p> Presupuesto a base de 140 personas, contemplando 3 autobuses de lujo, cada autobus con capacidad de 54 pasajeros de ser menor el numero de perona se re-cotizara 
                                     $ 4, 200.00 dolares 
@@ -617,11 +619,13 @@
                                     <p>&nbsp;&nbsp;Traslado de su hotel al Outlet o tienda de su eleccion en la &nbsp;&nbsp;zona hotelera donde seguramente encontraran eso y mas.
                                     </p>
                                 </div>
-                                <div class="popular-pp-info">
+                               <div id ="oculto" class="popular-pp-info" style='display:none;'>
                                     <p>
                                         Preguntanos y te llevaremos a la plaza que tu necesitas, donde encontraras tus tiendas favoritas fuera de la zona hotelera: Best buy, Baby "R" US, Michaels, Marchall, Ross, Norstrom Rack, Stein Mart, etc...
 
                                          y te regalamos cuponera de descuento de los Outlets Norte y Sur.
+
+                                         Solo Ida , Preguntar Por Viaje Redondo.
                                         
                                      </p>
                                  
@@ -656,7 +660,7 @@
 
                                     </p>
                                 </div>
-                                <div class="popular-pp-info">
+                               <div id ="oculto" class="popular-pp-info" style='display:none;'>  
                                     
                                     <p>
                                         Escápese de las luces de la ciudad y vuele con nosotros por encima de la presa Hoover, el lago Mead y los volcanes de extinción en el camino hacia el Gran Cañón.
@@ -700,7 +704,7 @@
                                         </p>
                                     </p>
                                 </div>
-                                <div class="popular-pp-info">
+                                <<div id ="oculto" class="popular-pp-info" style='display:none;'>  
                                     
                                     <p>
                                 Pase la histórica Presa Hoover de 726 pies de altura en nuestro helicóptero, vuele por Fortification Hill y el reluciente Lago Mead en su camino hacia el Gran Cañón. Saborea la belleza del paisaje mientras volamos a más de 40 millas de cañón. Este inolvidable recorrido culmina con nuestro helicóptero persiguiendo la puesta de sol a través del desierto de regreso a Las Vegas sobre las radiantes luces de la franja.
@@ -739,7 +743,7 @@
 
                                     
                                 </div>
-                                        <div class="popular-pp-info">
+                                       <div id ="oculto" class="popular-pp-info" style='display:none;'>  
                                             
                                             <p>
                                                 Incluye entrada al Skywalk, parada para tomar fotos en La Presa Hoover, un almuerzo estilo BBQ y trasportacion.
@@ -788,7 +792,7 @@
                                     </p>
                                    
                                 </div>
-                                <div class="popular-pp-info">
+                                <div id ="oculto" class="popular-pp-info" style='display:none;'>  
                                   
                                     <p>INSANITY
 
@@ -843,7 +847,7 @@
 
                                  </p>   
                                 </div>
-                                <div class="popular-pp-info">
+                                <div id ="oculto" class="popular-pp-info" style='display:none;'>  
                                    
                                     
 
@@ -885,7 +889,7 @@
                                             </p>
                                     </p>    
                                 </div>
-                                <div class="popular-pp-info">
+                                <div id ="oculto" class="popular-pp-info" style='display:none;'>  
                                     <p>
                                         Entrada al parque nacional del Grand Canyon West Rim. Una de las maravillas más grandes del mundo y más visitadas en Estados Unidos. Conocerán los siguientes puntos: Hualapai Ranch, Eagle point y guano point . Se tiene derecho a 1 almuerzo o comida por persona con opción en 2 localidades Hualapai ranch o Guano Point . Disfrutaremos del majestuoso paisaje de Grand Cañon en su máximo esplendor conoceremos y podremos apreciar una auténtica simulación de como era el Oeste en el punto Hualapai Ranch, Veremos cara a cara a los nativos Hualapai . Conocerán la plataforma de cristal (sky walk )desde 4000 pies de altura. Parada en la Presa Hoower para sesión de fotos. Obra de ingeniería del siglo XX con una longitud de 380 metros , altura 200 metros y 200 de ancho. Que dio origen al segundo lago artificial el lago lake Mead en el cauce Del Río Colorado. 1931-1936 Terrestre privado. En suburban o van dependiendo del numero de pasajeros. Incluyen botellas de agua y fruta de temporada. Approx. 6 a 8 horas 7:00am-4:00pm a más tardar 5:00 Pm. $200.00 por persona 4 personas como mínimo para dar el tour privado .
                                              </p>
@@ -926,8 +930,7 @@
 
                                                 </p>
                                             </div>
-                                            <div class="popular-pp-info">
-                                               
+                                                <div id ="oculto" class="popular-pp-info" style='display:none;'>                                                 
                                                 <p> Nuestros karts europeos de alto rendimiento son capaces de velocidades que se aproximan a 45 mph, y que parece extremadamente rápido cuando usted está sentado a sólo pulgadas de la tierra tratando de navegar por un curso de carretera de hasta 1/4-Mile de longitud! Desde el punto de vista de la competencia, nuestros karts eléctricos son de clase mundial. También tenemos los niños van karts, y sólo tiene que ser 48  "alto a la raza. Lo mejor de todo, la acción se lleva a cabo dentro de nuestras cómodas instalaciones de vanguardia controladas por el clima, y no hay humos malolientes! El resultado final es el mejor lugar de entretenimiento de deportes de motor de Norteamérica, y en ningún otro lugar se puede encontrar el torrente de adrenalina creado por este tipo de acción lado a lado de la carrera. Es tan bueno que ha sido llamado el entretenimiento de interior definitivo, y todas nuestras pistas están abiertas los siete días de la semana. Sólo cerramos para Navidad (excepto Vegas) y eventos privados, y se puede c</p>
                                                         <div class="package-meta">
                                                             <span>
@@ -967,8 +970,7 @@
 
 
                                 </div>
-                                <div class="popular-pp-info">
-                                  
+                                <div id ="oculto" class="popular-pp-info" style='display:none;'>  
                                     
 
                                     <p>
@@ -989,6 +991,43 @@
                                 </div>
                             </div>
                         </div>
+
+
+                        <!-- Inicia Paquete -->
+                         <div class="pp-list-item">
+                            <div class="single-pp">
+                                <div class="single-pp-thumb">
+                                    <p>
+                                        <img id="traslado" src="img/package/clubs.jpg" alt="popular image" align="left">    
+                                        <a href="#"><h5>&nbsp;&nbsp;Night Clubs</h5>   
+                                        </a>
+                                        <p>
+                                            &nbsp;&nbsp;Pare el club XS y Omnia club, preguntar por precio de entrada &nbsp;&nbsp;o reserva de Mesa vip para reservar
+                              
+                                        </p>
+                                    </p>
+                                    
+                                </div>
+                                <div class="popular-pp-info">
+                                    <div class="package-meta">
+                                        <span>
+                                            <i class="icofont icofont-ui-rating"></i>20</span>
+                                        <span>
+                                            <i class="far fa-heart"></i>10</span>
+                                        <span>
+                                            <i class="far fa-comment"></i>5</span>
+                                   </div>
+                                </div>
+                                <div class="popular-p-pricing">
+                                    
+                                    <a class="btn-1 pp-btn" href="#">View Details</a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Termina Paquete -->
+
+
+
 
                 <!--DIV MAESTRO IZQUIERDA-->
                  <!--DIV MAESTRO IZQUIERDA-->
@@ -1040,7 +1079,8 @@
 
                                 </p>
                                 </div>
-                                <div class="popular-pp-info">
+                                 <div id ="oculto" class="popular-pp-info" style='display:none;'>  
+
                                    
                                     <p>LAS VEGAS NIGHT CITY TOUR  ( CON GUIA EN ESPANOL ) 
 
@@ -1093,8 +1133,8 @@
                                                         </p>
                                                     </p>
                                                 </div>
-                              
-                                        <div class="popular-pp-info">
+                                   <div id ="oculto" class="popular-pp-info" style='display:none;'>  
+
                                             
                                                     <p> ( Presupuesto  considerando  140 pax  ) Siempre y cuando llegue el grupo en el mismo vuelo, de haber cambio se re-cotizara  por el espacio del autobus
                                                     Contemplando 3 autobuses de lujo, cada autobus con capacidad de 54 pasajeros o 24 pasajeros en cada autobus 
@@ -1138,7 +1178,8 @@
                                     </p>
 
                                 </div>
-                                <div class="popular-pp-info">
+                                <div id ="oculto" class="popular-pp-info" style='display:none;'>  
+
                                     
                                     <p> ( Presupuesto a base de 150 pasajeros, 3 autobuses de lujo . Con Coordinador en español en el evento, para guiarlos al final del mismo a sus autobuses para su retorno a su Hotel  )  4 hrs. como maximo.
                                      
@@ -1198,7 +1239,8 @@
 
                                     </p>
                                 </div>
-                                <div class="popular-pp-info">
+                                <                                <div id ="oculto" class="popular-pp-info" style='display:none;'>  
+
                                     
                                     <p>
                                         Su helicóptero se deslizará sobre el sinuoso camino del río Colorado para una vista espectacular del Gran Cañón. Descenderemos 3,200 pies a nuestra área de aterrizaje privada para un picnic íntimo con champaña antes de la puesta del sol. En el regreso, disfrute de los ricos colores del sol que desaparecen sobre el paisaje desértico y concluya su vuelo sobre las brillantes luces del Strip de Las Vegas.
@@ -1242,8 +1284,8 @@
 
                                 </p>
                                 </div>
-                                <div class="popular-pp-info">
-                                    
+                                                                <div id ="oculto" class="popular-pp-info" style='display:none;'>  
+
                                    <p>
 El SlotZilla Zipline · Entretenimiento en vivo · Zipline Fremont Street · Más de 50 bares
 Amenidades: SlotZilla Zip line, miedo a los muertos vivientes, entretenimiento en vivo, espectáculos de luz</p>
@@ -1282,7 +1324,8 @@ Amenidades: SlotZilla Zip line, miedo a los muertos vivientes, entretenimiento e
 
                                     </p>
                                 </div>
-                                <div class="popular-pp-info">
+                                                               <div id ="oculto" class="popular-pp-info" style='display:none;'>  
+
                                    
                                    <p>
                                         "APRENDE A VOLAR"
@@ -1328,7 +1371,8 @@ Precio por persona
                                             </p>
                                     </p>
                                 </div>
-                                <div class="popular-pp-info">
+                                                                <div id ="oculto" class="popular-pp-info" style='display:none;'>  
+
                                    
                                    <p>
                                         Mandalay Bay Hotel & Casino<br> 
@@ -1368,7 +1412,8 @@ Precio por persona
                                             </p>
                                     </p>
                                 </div>
-                                <div class="popular-pp-info">
+                                                                <div id ="oculto" class="popular-pp-info" style='display:none;'>  
+
                                    
                                    <p>
                                         Luxor Hotel & Casino<br>7:00 pm y 9:30 pm. Miércoles a domingo Entradas más impuestos y tasas.<br>Precio por persona
@@ -1407,7 +1452,8 @@ Precio por persona
                                     </p>
                                 </p>
                                 </div>
-                                <div class="popular-pp-info">
+                                                                <div id ="oculto" class="popular-pp-info" style='display:none;'>  
+
                                     
                                     <p>  MGM Grand Hotel & Casino<br>7:00 pm y 9:30 pm. Domingo a viernes mas impuestos y tasas.<br>Precio por persona
  
@@ -1444,7 +1490,8 @@ Precio por persona
                                     </p>
 
                                 </div>
-                                <div class="popular-pp-info">
+                                                                <div id ="oculto" class="popular-pp-info" style='display:none;'>  
+
                                     
                                 
                                     <p>
@@ -1483,7 +1530,7 @@ Precio por persona
                                     </p>
                                     
                                 </div>
-                                <div class="popular-pp-info">
+                                  <div id ="oculto" class="popular-pp-info" style='display:none;'>  
                                     <p>
                                     New York Hotel & Casino<br>7:00 pm y 9:30 pm. Viernes a martes.<br>Precio por persona mas impuestos y tasas.
  
@@ -1519,7 +1566,7 @@ Precio por persona
                                         </p>
                                     </p>
                                 </div>
-                                <div class="popular-pp-info">
+                                  <div id ="oculto" class="popular-pp-info" style='display:none;'>  
                                     <p>
                                     Bellagio Hotel & Casino<br>7:00pm & 9:30pm. Mié-Dom.<br> Precio por persona mas impuestos y tasas.
                                     </p>
@@ -1555,7 +1602,7 @@ Precio por persona
                                     </p>
                                     
                                 </div>
-                                <div class="popular-pp-info">
+                                  <div id ="oculto" class="popular-pp-info" style='display:none;'>  
                                     <p>
                                         The Mirage Hotel & Casino<br>El teatro cuenta con asientos de 360 grados, proyecciones de video panorámicas y sonido envolvente.<br>7:00 pm y 9:30 pm. Martes a sábado
                                     <br>Precio por persona mas impuestos y tasas.
@@ -1595,7 +1642,7 @@ Precio por persona
                                     </p>
                                     
                                 </div>
-                                <div class="popular-pp-info">
+                                 <div id ="oculto" class="popular-pp-info" style='display:none;'>  
                                     <p>
                                     Treasure Island Hotel & Casino<br>7:00 pm y 9:30 pm. Sat-Wed.<br>Precio por persona mas impuestos y tasas.
                                     </p>
@@ -1632,7 +1679,7 @@ Precio por persona
                                     </p>
                                     
                                 </div>
-                                <div class="popular-pp-info">
+                                  <div id ="oculto" class="popular-pp-info" style='display:none;'>  
                                     <p>
                                     7:00 pm y 9:30 pm. Viernes a viernes.<br>Precio por persona mas impuestos y tasas.
  
@@ -1670,7 +1717,7 @@ Precio por persona
                                     </p>
                                     
                                 </div>
-                                <div class="popular-pp-info">
+                                 <div id ="oculto" class="popular-pp-info" style='display:none;'>  
                                     
                                     <p>
                                     </p>
@@ -1713,7 +1760,7 @@ Precio por persona
                                     </p>
                                     
                                 </div>
-                                <div class="popular-pp-info">
+                                  <div id ="oculto" class="popular-pp-info" style='display:none;'>  
                                     <p>
                                         Hard Rock Hotel & Casino<br>8:00 pm y 10:30 pm. Mié - dom.<br>Precio por persona mas impuestos y tasas.
  
@@ -1737,38 +1784,7 @@ Precio por persona
                         <!-- Termina Paquete -->
 
 
-                        <!-- Inicia Paquete -->
-                         <div class="pp-list-item-right">
-                            <div class="single-pp">
-                                <div class="single-pp-thumb">
-                                    <p>
-                                        <img id="traslado" src="img/package/clubs.jpg" alt="popular image" align="left">    
-                                        <a href="#"><h5>&nbsp;&nbsp;Night Clubs</h5>   
-                                        </a>
-                                        <p>
-                                            &nbsp;&nbsp;Pare el club XS y Omnia club, preguntar por precio de entrada &nbsp;&nbsp;o reserva de Mesa vip para reservar
-                              
-                                        </p>
-                                    </p>
-                                    
-                                </div>
-                                <div class="popular-pp-info">
-                                    <div class="package-meta">
-                                        <span>
-                                            <i class="icofont icofont-ui-rating"></i>20</span>
-                                        <span>
-                                            <i class="far fa-heart"></i>10</span>
-                                        <span>
-                                            <i class="far fa-comment"></i>5</span>
-                                   </div>
-                                </div>
-                                <div class="popular-p-pricing">
-                                    
-                                    <a class="btn-1 pp-btn" href="#">View Details</a>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Termina Paquete -->
+                        
 
                          
 

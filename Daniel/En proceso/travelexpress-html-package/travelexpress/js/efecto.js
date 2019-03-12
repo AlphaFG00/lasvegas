@@ -1,5 +1,6 @@
-function mostrar()
+function mostrar(div)
  {
+<<<<<<< HEAD
 
     document.getElementsByClassName("popular-pp-info").style.display = "block";
      }
@@ -19,5 +20,24 @@ function dinamica(){
         else{
             ocultar(); 
             document.getElementsByClassName("btn-1 pp-btn").value = "Ver Mas";
+=======
+     document.getElementById(div).style.display = "block";
+     }
+function ocultar(div){
+    document.getElementById(div).style.display = "none";
+}
+
+function dinamica(boton, div){
+    var caja=document.getElementById(div);
+        if(caja.style.display =="none"){
+
+            mostrar(div);
+            document.getElementById(boton).value = "Ocultar";
+
+        }
+        else{
+            ocultar(div);
+            document.getElementById(boton).value = "Ver Mas";
+>>>>>>> 7fa1ff10646a6bac03f436ff0e8f6dc32604e711
         }
     }

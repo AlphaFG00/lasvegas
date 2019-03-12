@@ -1,21 +1,21 @@
-function mostrar()
+function mostrar(div)
  {
-     document.getElementById('caja').style.display = "block";
+     document.getElementById(div).style.display = "block";
      }
-function ocultar(){
-    document.getElementById('caja').style.display = "none";
+function ocultar(div){
+    document.getElementById(div).style.display = "none";
 }
 
-function dinamica(){
-    var caja=document.getElementById('caja');
+function dinamica(boton, div){
+    var caja=document.getElementById(div);
         if(caja.style.display =="none"){
 
-            mostrar();
-            document.getElementById('boton').value = "Ocultar";
+            mostrar(div);
+            document.getElementById(boton).value = "Ocultar";
 
         }
         else{
-            ocultar(); 
-            document.getElementById('boton').value = "Ver Mas";
+            ocultar(div);
+            document.getElementById(boton).value = "Ver Mas";
         }
     }

@@ -1,21 +1,23 @@
 function mostrar()
  {
-     document.getElementById('caja').style.display = "block";
+
+    document.getElementsByClassName("popular-pp-info").style.display = "block";
      }
 function ocultar(){
-    document.getElementById('caja').style.display = "none";
+
+     document.getElementsByClassName("popular-pp-info").style.display = "none";
 }
 
 function dinamica(){
-    var caja=document.getElementById('caja');
-        if(caja.style.display =="none"){
+    var clase = document.getElementsByClassName("popular-pp-info");
+        if(clase.style.display =="none"){
 
             mostrar();
-            document.getElementById('boton').value = "Ocultar";
+            document.getElementsByClassName("btn-1 pp-btn").value = "Ocultar";
 
         }
         else{
             ocultar(); 
-            document.getElementById('boton').value = "Ver Mas";
+            document.getElementsByClassName("btn-1 pp-btn").value = "Ver Mas";
         }
     }

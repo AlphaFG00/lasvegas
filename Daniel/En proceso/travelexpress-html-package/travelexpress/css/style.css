@@ -296,7 +296,7 @@ color:#f9676b;
   z-index: 9999;
 }
 .basic-menu ul li ul li {
-  border-bottom: 4px solid #ddd;
+  border-bottom: 1px solid #ddd;
   float: none;
   margin: 0;
 }
